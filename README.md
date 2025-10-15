@@ -10,7 +10,6 @@
 
 - 🌱 Studying JLPT N2 
 - 🌐 Building trading platforms for business owners
-- 
 ---
 
 ## ☕ Buy Me a Coffee
