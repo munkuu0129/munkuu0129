@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Studying JLPT N2 
+- 🌱 Studying JLPT N1
 - 🌐 Building trading platforms for business owners
 ---
 
