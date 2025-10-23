@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Studying JLPT N1
+- 🌐 Living and working in Japan
+- 🌐 Studying JLPT N1
 - 🌐 Building trading platforms for business owners
----
 
